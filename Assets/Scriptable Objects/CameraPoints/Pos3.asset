@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1ca2156daf975f448be7696a9d48c03, type: 3}
+  m_Name: Pos3
+  m_EditorClassIdentifier: 
+  xPos: 28.66
+  yPos: 9.09
+  zPos: 37.17
+  xRot: 0
+  yRot: 0
+  zRot: 0
+  timeToNext: 2
